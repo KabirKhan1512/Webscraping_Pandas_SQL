@@ -2,7 +2,7 @@
 
 Welcome to this data pipeline project, where we extract financial data from **Yahoo Finance**, process it using **Python** and **Pandas**, and transfer it to **SQL Server** or **Snowflake** for further **data analysis**.
 
-![Pipeline Architecture](./Copy%20of%20Copy%20of%20External%20Stage.jpg)
+![Pipeline Architecture](./Flowchart.jpg)
 
 ---
 

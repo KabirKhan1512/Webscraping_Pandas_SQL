@@ -44,16 +44,3 @@ This project demonstrates the complete ETL (Extract, Transform, Load) process of
   Public data source for financial datasets.
 
 ---
-
-## 📂 Project Structure
-
-```plaintext
-├── data/                    # Optional directory for saving scraped CSVs
-├── scripts/                 # Python scripts for scraping, transformation, and loading
-│   ├── scrape_yahoo.py
-│   ├── transform_data.py
-│   ├── load_to_sqlserver.py
-│   └── load_to_snowflake.py
-├── utils/                   # Utility functions for database connection etc.
-├── README.md                # This file
-└── requirements.txt         # Python dependencies
